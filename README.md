@@ -5,6 +5,7 @@ A basic Android application demonstrating the Unidirectional Data Flow (UDF) pat
 <br>
 [Reference: Jetpack Compose Architecture](https://developer.android.com/develop/ui/compose/architecture)
 <br><br>
+
 https://github.com/Samridhi16/counter-app/assets/26019260/6fc9e54a-0b7e-42c2-a1d8-df7b9318678a
 
 
